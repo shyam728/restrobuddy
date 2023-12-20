@@ -1,0 +1,8 @@
+tablebooking
+-------------
+
+restaurantid fk
+tableid pk
+tableno
+noofchairs
+floor (rooftop 1 to 10)

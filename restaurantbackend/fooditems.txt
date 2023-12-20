@@ -1,0 +1,12 @@
+fooditems
+----------
+
+restaurantid fk
+categoryid fk  dropdown
+fooditemid pk
+fooditemname
+foodtype            radio button
+ingredients
+price
+offerprice
+icon

@@ -1,0 +1,20 @@
+waiters
+-------------
+restaurantid fk
+waiterid pk
+waitername 
+gender
+dob
+mobileno
+emailid 
+address
+picture
+---------
+
+waitertable
+------------
+waitertableid pk
+restaurantid 
+waiterid  dropdown
+tablenoid  dropdown
+currentdate
